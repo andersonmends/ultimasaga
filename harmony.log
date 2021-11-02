@@ -1,0 +1,73 @@
+Harmony.dll v1.1.1 eingebunden
+   Application.Initialize
+   Application.CreateForm(TForm1, Form1)
+Found MS Windows 9x Kernel (1) Vers: 4.10
+-> Using mciqtz.drv
+ScriptAction mcicommand registriert.
+ScriptAction writetolog registriert.
+ScriptAction execprogram registriert.
+ScriptAction miditickfunction registriert.
+ScriptAction addoutput registriert.
+HarmonyCreate erfolgreich ausgefuehrt
+HarmonyInitMidi erfolgreich ausgefuehrt
+HarmonyInitWave erfolgreich ausgefuehrt
+HarmonyReserveSound(D:\Fernandinho\Emuladores\Makers\Rpg Maker 2000br\RTP\Sound\Cursor2.wav) erfolgreich ausgefuehrt
+HarmonyReserveSound(D:\Fernandinho\Emuladores\Makers\Rpg Maker 2000br\RTP\Sound\Decision1.wav) erfolgreich ausgefuehrt
+HarmonyReserveSound(D:\Fernandinho\Emuladores\Makers\Rpg Maker 2000br\RTP\Sound\Cansel2.wav) erfolgreich ausgefuehrt
+HarmonyReserveSound(D:\Fernandinho\Emuladores\Makers\Rpg Maker 2000br\RTP\Sound\Failure1.wav) erfolgreich ausgefuehrt
+HarmonyReserveSound(D:\Fernandinho\Emuladores\Makers\Rpg Maker 2000br\RTP\Sound\Cursor2.wav) erfolgreich ausgefuehrt
+HarmonyReserveSound(D:\Fernandinho\Emuladores\Makers\Rpg Maker 2000br\RTP\Sound\Decision1.wav) erfolgreich ausgefuehrt
+HarmonyReserveSound(D:\Fernandinho\Emuladores\Makers\Rpg Maker 2000br\RTP\Sound\Cansel2.wav) erfolgreich ausgefuehrt
+HarmonyReserveSound(D:\Fernandinho\Emuladores\Makers\Rpg Maker 2000br\RTP\Sound\Failure1.wav) erfolgreich ausgefuehrt
+HarmonyStopMusic gestartet
+HarmonyStopMusic erfolgreich ausgefuehrt
+HarmonyStopSound aufgerufen
+original HarmonyStopSound wird ausgefuehrt
+HarmonyStopSound erfolgreich ausgefuehrt.
+HarmonyReserveSound(D:\Fernandinho\Emuladores\Makers\Rpg Maker 2000br\RTP\Sound\Cursor2.wav) erfolgreich ausgefuehrt
+HarmonyReserveSound(D:\Fernandinho\Emuladores\Makers\Rpg Maker 2000br\RTP\Sound\Decision1.wav) erfolgreich ausgefuehrt
+HarmonyReserveSound(D:\Fernandinho\Emuladores\Makers\Rpg Maker 2000br\RTP\Sound\Cansel2.wav) erfolgreich ausgefuehrt
+HarmonyReserveSound(D:\Fernandinho\Emuladores\Makers\Rpg Maker 2000br\RTP\Sound\Failure1.wav) erfolgreich ausgefuehrt
+HarmonyPlayMusic(D:\Fernandinho\Emuladores\Makers\Rpg Maker 2000br\RTP\Music\operastg.mid) gestartet
+HarmonyPlayMusic(D:\Fernandinho\Emuladores\Makers\Rpg Maker 2000br\RTP\Music\operastg.mid) erfolgreich ausgefuehrt
+HarmonyFadeInMusic(0) erfolgreich ausgefuehrt
+HarmonySetMusicVolume(100) erfolgreich ausgefuehrt
+HarmonySetMusicSpeed(150) erfolgreich ausgefuehrt
+HarmonySetMusicPanpot(50) erfolgreich ausgefuehrt
+HarmonyPlaySoundEx(D:\Fernandinho\Emuladores\Makers\Rpg Maker 2000br\RTP\Sound\Cursor2.wav,100,100,50)
+   original HarmonyPlaySoundEx wird ausgefuehrt
+HarmonyPlaySoundEx erfolgreich ausgefuehrt.
+HarmonyPlaySoundEx(D:\Fernandinho\Emuladores\Makers\Rpg Maker 2000br\RTP\Sound\Decision1.wav,100,100,50)
+   original HarmonyPlaySoundEx wird ausgefuehrt
+HarmonyPlaySoundEx erfolgreich ausgefuehrt.
+HarmonyPlaySoundEx(D:\Fernandinho\Emuladores\Makers\Rpg Maker 2000br\RTP\Sound\Decision1.wav,100,100,50)
+   original HarmonyPlaySoundEx wird ausgefuehrt
+HarmonyPlaySoundEx erfolgreich ausgefuehrt.
+HarmonyFadeOutMusic(800 erfolgreich ausgefuehrt
+HarmonyStopMusic gestartet
+HarmonyStopMusic erfolgreich ausgefuehrt
+HarmonyReserveSound(D:\Fernandinho\Emuladores\Makers\Rpg Maker 2000br\RTP\Sound\Cursor2.wav) erfolgreich ausgefuehrt
+HarmonyReserveSound(D:\Fernandinho\Emuladores\Makers\Rpg Maker 2000br\RTP\Sound\Decision1.wav) erfolgreich ausgefuehrt
+HarmonyReserveSound(D:\Fernandinho\Emuladores\Makers\Rpg Maker 2000br\RTP\Sound\Cansel2.wav) erfolgreich ausgefuehrt
+HarmonyReserveSound(D:\Fernandinho\Emuladores\Makers\Rpg Maker 2000br\RTP\Sound\Failure1.wav) erfolgreich ausgefuehrt
+HarmonyReserveSound(D:\Fernandinho\Emuladores\Makers\Rpg Maker 2000br\RTP\Sound\Cursor2.wav) erfolgreich ausgefuehrt
+HarmonyReserveSound(D:\Fernandinho\Emuladores\Makers\Rpg Maker 2000br\RTP\Sound\Decision1.wav) erfolgreich ausgefuehrt
+HarmonyReserveSound(D:\Fernandinho\Emuladores\Makers\Rpg Maker 2000br\RTP\Sound\Cansel2.wav) erfolgreich ausgefuehrt
+HarmonyReserveSound(D:\Fernandinho\Emuladores\Makers\Rpg Maker 2000br\RTP\Sound\Failure1.wav) erfolgreich ausgefuehrt
+HarmonyPlayMusic(D:\Fernandinho\Emuladores\Makers\Rpg Maker 2000br\RTP\Music\Alexandria.mid) gestartet
+HarmonyPlayMusic(D:\Fernandinho\Emuladores\Makers\Rpg Maker 2000br\RTP\Music\Alexandria.mid) erfolgreich ausgefuehrt
+HarmonyFadeInMusic(0) erfolgreich ausgefuehrt
+HarmonySetMusicVolume(100) erfolgreich ausgefuehrt
+HarmonySetMusicSpeed(100) erfolgreich ausgefuehrt
+HarmonySetMusicPanpot(50) erfolgreich ausgefuehrt
+HarmonyPlaySoundEx(D:\Fernandinho\Emuladores\Makers\Rpg Maker 2000br\RTP\Sound\Decision1.wav,100,100,50)
+   original HarmonyPlaySoundEx wird ausgefuehrt
+HarmonyPlaySoundEx erfolgreich ausgefuehrt.
+HarmonyPlaySoundEx(D:\Fernandinho\Emuladores\Makers\Rpg Maker 2000br\RTP\Sound\Decision1.wav,100,100,50)
+   original HarmonyPlaySoundEx wird ausgefuehrt
+HarmonyPlaySoundEx erfolgreich ausgefuehrt.
+HarmonyPlaySoundEx(D:\Fernandinho\Emuladores\Makers\Rpg Maker 2000br\RTP\Sound\Decision1.wav,100,100,50)
+   original HarmonyPlaySoundEx wird ausgefuehrt
+HarmonyPlaySoundEx erfolgreich ausgefuehrt.
+HarmonyRelease erfolgreich ausgefuehrt
+HarmonyRelease gescheitert
