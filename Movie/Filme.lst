@@ -1,0 +1,12 @@
+[General]
+#TITLE=My Playlist
+#AUTHOR=Anonymous
+#COMMENTS=I just like it
+#VERSION=1.0
+[List]
+#OPENSTRING1=C:\Emuladores\Makers\Rpg Maker 2000br\RTP\Movie\Earth.mpg
+#INFO1=0,Earth.mpg
+#OPENSTRING2=C:\Emuladores\Makers\Rpg Maker 2000br\RTP\Movie\Babbit.avi
+#INFO2=0,Babbit.avi
+#OPENSTRING3=C:\Emuladores\Makers\Rpg Maker 2000br\RTP\Movie\Sword.avi
+#INFO3=0,Sword.avi
